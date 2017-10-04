@@ -1,6 +1,6 @@
 # Better JavaScript with ESlint, Airbnb, & Prettier
 
-Code to accompany [Better JavaScript with ESlint, Airbnb, and Prettier post]() and talk prepared for [Memphis Web Workers](http://memphiswebworkers.com/) user group [October 10, 2017](https://www.meetup.com/memphis-technology-user-groups/events/243211814/).
+Code to accompany [Better JavaScript with ESlint, Airbnb, and Prettier post](https://georgespake.com/blog/writing-better-javascript-eslint-airbnbs-style-guides-prettier-create-react-app/) and talk prepared for [Memphis Web Workers](http://memphiswebworkers.com/) user group [October 10, 2017](https://www.meetup.com/memphis-technology-user-groups/events/243211814/).
 
 Learn How to Set Up ESlint, Airbnb’s Style Guides, and Prettier using a Create-React-App without ejecting and Integrate ESlint With Your Editor.
 
